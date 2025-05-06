@@ -1,5 +1,3 @@
-package Pgm5;
-
 public class Fib {
     public static void main(String[] args){
         int count=10;
